@@ -38,3 +38,22 @@ This project involves the cleaning and exploration of a dataset tracking COVID-1
    - Interactive analysis of key metrics and trends
 
 The major tasks involved are assessing data quality, resolving inconsistencies, handling missing data, standardizing formats, and ensuring integrity for downstream usage. The final clean dataset will enable more accurate analytics.
+
+# Potential Questions To Be Answered
+1. What global trends can be observed in Covid-19 mortality over time?
+-- Tracking infection rates and death rates by location and date could reveal spreads, peaks, and declines.
+   
+2. Which locations have seen the highest death rates relative to their populations?
+-- Calculating death percentages by location would highlight the hardest-hit areas.
+   
+3. How do death rates differ across geographic regions and between rural vs urban areas?
+-- Grouping and comparing locations could reveal variances.
+   
+4. When did different countries reach peak death rates?
+-- Charting daily/weekly fluctuations could pinpoint peaks.
+   
+5. How strong is the correlation between infection rates and mortality rates?
+-- Statistical analysis between infections and deaths by date/location may show patterns.
+   
+6. How effective were public health measures in reducing deaths?
+-- Changes in policy dates could be combined with death rate time series analysis.
